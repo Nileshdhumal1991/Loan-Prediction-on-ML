@@ -1,2 +1,2 @@
-# LPOBD -Loan-Prediction-on-Bank Dataset
+# LPO-BD -Loan-Prediction-on-Bank Dataset
 Loan Prediction on ML
